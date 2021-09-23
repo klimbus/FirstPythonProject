@@ -1,1 +1,3 @@
-print ('A','n','n','a', sep="_", end='\n\n') 
+productlist = ['milk', 'butter', 'potato', 'lemon', 'bread']
+print (productlist [2])
+print (productlist [4])
