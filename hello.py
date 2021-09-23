@@ -1,5 +1,1 @@
-input = "123"
-print(type(input))
-
-input = 123
-print(type(input))
+print ('A','n','n','a', sep="_", end='\n\n') 
